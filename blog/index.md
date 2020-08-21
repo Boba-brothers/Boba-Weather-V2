@@ -7,11 +7,6 @@ layout: default
 
 ## Home Page
 <p>
-	<a href="index.html">
-	<img src="bobaweatherlogov2.png"
-     alt="bobaweatherlogo"
-     style="float: left; width: 100px; padding: 10px" />
-	</a>
 </p>
 [About Stewart](404.html)
 <br />
